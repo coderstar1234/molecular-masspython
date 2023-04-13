@@ -1,7 +1,7 @@
 
 
 
-Molecular Mass Calculator
+<h1 align="center"> Molecular Mass Calculator</h1>
 This is a Python program that calculates the molecular mass of a chemical compound. It takes a chemical formula as input and returns the molecular mass as output.
 
 Usage
