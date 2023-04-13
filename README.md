@@ -17,7 +17,7 @@ This program requires the pymatgen library to be installed. You can install it u
 
 Copy code
 pip install pymatgen
-<h1 align="center">Example
+<h1 align="center">Example</h1>
 Here's an example usage of the program:
 
 python
