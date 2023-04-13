@@ -1,11 +1,5 @@
 
-Python Molecular Mass Calculator
 
-
-Himanshu Vashistha
-Molecular mass calculation code in python make readme file for GitHub.
-
-Sure, here's an example readme file for a molecular mass calculation code in Python:
 
 Molecular Mass Calculator
 This is a Python program that calculates the molecular mass of a chemical compound. It takes a chemical formula as input and returns the molecular mass as output.
