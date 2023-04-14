@@ -16,27 +16,32 @@
 - The molecular mass of H2O is 18.015 g/mol.
 <h1 align="center">Dependencies</h1>
 
-- This program requires the pymatgen library to be installed. You can install it using pip:
+- This program requires the pymatgen library to be installed.
+-  You can install it using pip:
 <h3 align=" center" >Copy code:</h3>
-pip install pymatgen
+
+<p align=" center"> pip install pymatgen:</p>
 <h1 align="center">Example</h1>
 
 <p align=" center" >Here's an example usage of the program:</p>
 
 
-python
+<p align=" center" >python</p>
 <h3 align=" center" >Copy code:</h3>
-from molecular_mass_calculator import calculate_molecular_mass
 
-# Calculate the molecular mass of water
-formula = "H2O"
-molecular_mass = calculate_molecular_mass(formula)
-print(f"The molecular mass of {formula} is {molecular_mass} g/mol.")
-This will output:
+- from molecular_mass_calculator import calculate_molecular_mass
 
-bash
-Copy code
-The molecular mass of H2O is 18.015 g/mol.
+<h3 align=" center" >Calculate the molecular mass of water:</h3>
+
+- formula = "H2O"
+- molecular_mass = calculate_molecular_mass(formula)
+- print(f"The molecular mass of {formula} is {molecular_mass} g/mol.")
+- This will output:
+
+<h3 align=" center" >bash:📺 </h3>
+<h3 align=" center" >Copy code:</h3>
+
+- The molecular mass of H2O is 18.015 g/mol.
 <h1 align="center">Contributing</h1>
 
 - If you find any bugs or issues with the program, please feel free to open an issue or submit a pull request on GitHub.
