@@ -7,24 +7,25 @@
 
 - To use this program, simply run the molecular_mass_calculator.py script and input a chemical formula when prompted.
 - The program will then calculate the molecular mass and display the result.
+<h3 align=" center" >bash:📺 </h3>
+<h3 align=" center" >Copy code:</h3>
 
-bash
-Copy code
+
 - python molecular_mass_calculator.py
 - Enter a chemical formula: H2O
 - The molecular mass of H2O is 18.015 g/mol.
 <h1 align="center">Dependencies</h1>
 
 - This program requires the pymatgen library to be installed. You can install it using pip:
-
-Copy code
+<h3 align=" center" >Copy code:</h3>
 pip install pymatgen
 <h1 align="center">Example</h1>
 
-Here's an example usage of the program:
+<p align=" center" >Here's an example usage of the program:</p>
+
 
 python
-Copy code
+<h3 align=" center" >Copy code:</h3>
 from molecular_mass_calculator import calculate_molecular_mass
 
 # Calculate the molecular mass of water
