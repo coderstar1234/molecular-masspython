@@ -1,10 +1,12 @@
 <h1 align="center"> Molecular Mass Calculator</h1>
 
-This is a Python program that calculates the molecular mass of a chemical compound. It takes a chemical formula as input and returns the molecular mass as output.
+This is a Python program that calculates the molecular mass of a chemical compound. 
+It takes a chemical formula as input and returns the molecular mass as output.
 
 <h1 align="center">Usage</h1>
 
-To use this program, simply run the molecular_mass_calculator.py script and input a chemical formula when prompted. The program will then calculate the molecular mass and display the result.
+To use this program, simply run the molecular_mass_calculator.py script and input a chemical formula when prompted.
+The program will then calculate the molecular mass and display the result.
 
 bash
 Copy code
