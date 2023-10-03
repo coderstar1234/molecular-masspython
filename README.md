@@ -29,7 +29,7 @@
 
 
 <p align=" center" >python</p>
-<h3 align=" center" >Copy code📙:</h3>
+<h3 align=" center" >Copy code:-📙:</h3>
 
 - from molecular_mass_calculator import calculate_molecular_mass
 <hr>
