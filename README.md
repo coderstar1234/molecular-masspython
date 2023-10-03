@@ -48,7 +48,7 @@
 
 - If you find any bugs or issues with the program, please feel free to open an issue or submit a pull request on GitHub.
 <hr>
-<h1 align="center">License:📙</h1>
+<h1 align="center">License:-📙</h1>
 
 - This program is licensed under the MIT License. 
 - See the LICENSE file for details.
