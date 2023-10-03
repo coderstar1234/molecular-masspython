@@ -40,7 +40,7 @@
 - print(f"The molecular mass of {formula} is {molecular_mass} g/mol.")
 - This will output:
 <hr>
-<h3 align=" center" >bash:📺 </h3>
+<h3 align=" center" >bash:-📺 </h3>
 <h3 align=" center" >Copy code:</h3>
 
 - The molecular mass of H2O is 18.015 g/mol.<hr>
