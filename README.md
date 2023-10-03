@@ -44,7 +44,7 @@
 <h3 align=" center" >Copy code:</h3>
 
 - The molecular mass of H2O is 18.015 g/mol.<hr>
-<h1 align="center">Contributing🧾</h1>
+<h1 align="center">Contributing:-🧾</h1>
 
 - If you find any bugs or issues with the program, please feel free to open an issue or submit a pull request on GitHub.
 <hr>
