@@ -16,7 +16,7 @@
 - Enter a chemical formula: H2O
 - The molecular mass of H2O is 18.015 g/mol.
 <hr>
-<h1 align="center">Dependencies💤</h1>
+<h1 align="center">Dependencies:-💤</h1>
 
 - This program requires the pymatgen library to be installed.
 -  You can install it using pip:<hr>
