@@ -20,7 +20,7 @@
 
 - This program requires the pymatgen library to be installed.
 -  You can install it using pip:<hr>
-<h3 align=" center" >Copy code:📙:</h3>
+<h3 align=" center" >Copy code:-📙:</h3>
 
 <p align=" center"> pip install pymatgen:</p>
 <h1 align="center">Example⚙️</h1>
