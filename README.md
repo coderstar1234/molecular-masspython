@@ -23,7 +23,7 @@
 <h3 align=" center" >Copy code:-📙:</h3>
 
 <p align=" center"> pip install pymatgen:</p>
-<h1 align="center">Example⚙️</h1>
+<h1 align="center">Example:⚙️</h1>
 
 <p align=" center" >Here's an example usage of the program:</p>
 
