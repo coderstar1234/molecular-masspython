@@ -9,7 +9,7 @@
 - The program will then calculate the molecular mass and display the result.
  <hr>
 <h3 align=" center" >bash:-📺 </h3>
-<h3 align=" center" >Copy code📙:</h3>
+<h3 align=" center" >Copy code:📙:</h3>
 
 
 - python molecular_mass_calculator.py
