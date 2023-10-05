@@ -33,7 +33,7 @@
 
 - from molecular_mass_calculator import calculate_molecular_mass
 <hr>
-<h3 align=" center" >Calculate the molecular mass of water:-</h3>
+<h3 align=" center" >Calculate the molecular mass of 💦:-</h3>
 
 - formula = "H2O"
 - molecular_mass = calculate_molecular_mass(formula)
