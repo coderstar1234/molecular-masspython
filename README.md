@@ -8,7 +8,7 @@
 - To use this program, simply run the molecular_mass_calculator.py script and input a chemical formula when prompted.
 - The program will then calculate the molecular mass and display the result.
  <hr>
-<h3 align=" center" >bash:📺 </h3>
+<h3 align=" center" >bash:-📺 </h3>
 <h3 align=" center" >Copy code📙:</h3>
 
 
