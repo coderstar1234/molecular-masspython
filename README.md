@@ -41,7 +41,7 @@
 - This will output:
 <hr>
 <h3 align=" center" >bash:-📺 </h3>
-<h3 align=" center" >Copy code:</h3>
+<h3 align=" center" >Copy code:-</h3>
 
 - The molecular mass of H2O is 18.015 g/mol.<hr>
 <h1 align="center">Contributing:-🧾</h1>
